@@ -1,6 +1,6 @@
-## React starter project, with D3
+## React project
 
-This project is the Repl.it React starter project, with a D3 chart included on the page. 
+This project is the Repl.it React project
 
 ## Running React on Repl.it
 
@@ -17,6 +17,6 @@ Using the two in conjunction is one of the fastest ways to build a web app.
 By default, Repl.it runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
 
 ### STUDENT INFORMATION
-- Zhang Zibo, zbozhang@udavis.edu, 914913319
-- Obaidullah Hasseeb, ohasseeb@ucdavis.edu, 914143011
-- Bin Lama, blama@ucdavis.edu, 915062405
+- Zhang Zibo
+- Obaidullah Hasseeb
+- Bin Lama
